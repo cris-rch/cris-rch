@@ -19,5 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cris-rch&show_icons=true&locale=en&layout=compact" alt="cris-rch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cris-rch&show_icons=true&locale=en" alt="cris-rch" /></p>
-
